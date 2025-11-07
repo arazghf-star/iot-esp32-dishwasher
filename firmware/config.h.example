@@ -1,0 +1,24 @@
+// =================================================================================
+// Configuration File - Copy this to config.h and fill in your details
+// =================================================================================
+// IMPORTANT: Copy this file to "config.h" and update with your credentials
+// config.h is git-ignored to keep your credentials private
+// =================================================================================
+
+#ifndef CONFIG_H
+#define CONFIG_H
+
+// --- WiFi Configuration ---
+// Replace these with your WiFi network details
+#define WIFI_SSID "YOUR_WIFI_SSID_HERE"
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD_HERE"
+
+// --- OTA Configuration ---
+// Set a password for OTA updates
+#define OTA_PASSWORD "your_ota_password_here"
+
+// --- Device Configuration ---
+// Set a hostname for your device
+#define OTA_HOSTNAME "Dishwasher-ESP32"
+
+#endif // CONFIG_H
