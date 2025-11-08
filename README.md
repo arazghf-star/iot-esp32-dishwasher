@@ -400,7 +400,7 @@ This project demonstrates:
 
 ## 📞 Contact
 
-**Araz Ghaffarnejad**
+**arazghf**
 - GitHub: [@arazghf-star](https://github.com/arazghf-star)
 - Email: araz.ghf@gmail.com
 
